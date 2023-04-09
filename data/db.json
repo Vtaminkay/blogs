@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Everything Sucks!",
+      "body": "nmbac.nb.m,zxc",
+      "author": "yoshi",
+      "id": 1
+    },
+    {
+      "title": "Just Kidding. Everything is great",
+      "body": "nmbac.nb.m,zxc",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "No, really! I haven't thought about my ex today ",
+      "body": "mnb.mnb",
+      "author": "yoshi",
+      "id": 3
+    },
+    {
+      "title": "Oh wait! F@#k I just did",
+      "body": ".nbsd.nbcn.bcdnm.d",
+      "author": "yoshi",
+      "id": 4
+    }
+  ]
+}
